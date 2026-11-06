@@ -1,0 +1,9 @@
+/* Visual Studio Settings File */
+{
+  "languages.defaults.scrollbars.horizontalScrollBar": false,
+  "languages.defaults.scrollbars.verticalScrollBar": false,
+  "languages.defaults.scrollbars.verticalScrollBarAnnotations": false,
+  "textEditor.advanced.horizontalScrollBarLocation": "auto",
+  "languages.defaults.scrollbars.verticalScrollBarMode": "map",
+  "languages.defaults.scrollbars.mapModePreview": true
+}
